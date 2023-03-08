@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manav-Bhatt
-- 👀 I’m interested in ...learning lots of coding and exploring its applications
-- 🌱 I’m currently learning ...python to advanced level
+- 👀 I’m interested in ...coding and exploring its applications
+- 🌱 I’m currently learning ...C++,web and android development
 - 💞️ I’m looking to collaborate on ...well actually nothing
 - 📫 How to reach me ...email me at manavbhatt056@gmail.com
 -
